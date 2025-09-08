@@ -25,5 +25,12 @@
   },
   "require-dev": {
     "orchestra/testbench": "^10.6"
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Sigmarius\\LaravelAppSettings\\Providers\\LaravelAppSettingsProvider"
+      ]
+    }
   }
 }

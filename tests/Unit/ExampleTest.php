@@ -2,8 +2,6 @@
 
 namespace Sigmarius\LaravelAppSettings\Tests;
 
-use Orchestra\Testbench\TestCase;
-
 /**
  * Unit Test simple example
  */
